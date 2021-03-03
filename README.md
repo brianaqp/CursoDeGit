@@ -8,4 +8,6 @@ Aprendi a:
 * Flujo de trabajo.
 * El amor de las buenas praticas.
 
+README mejorado, esto es para el cherrypick
+
 # Gracias. <3
